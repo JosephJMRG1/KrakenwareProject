@@ -1,1 +1,1 @@
-# KrakenwareProjecy
+# KrakenwareProject
